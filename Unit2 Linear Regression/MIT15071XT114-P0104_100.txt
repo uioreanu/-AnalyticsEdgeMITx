@@ -1,0 +1,11 @@
+
+Hi.
+I'm Angie, and I'll be presenting
+the recitation for this week.
+In lecture two, we saw the story of Moneyball
+and explored how to build linear regression
+models for baseball analytics.
+Today, we'll apply the same method, linear regression,
+to data from the National Basketball
+Association, the NBA.
+Let's get started.

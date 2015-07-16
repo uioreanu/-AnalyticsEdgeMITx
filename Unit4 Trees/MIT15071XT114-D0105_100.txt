@@ -1,0 +1,66 @@
+
+Let us introduce the method we use
+for predicting the bucket number.
+It is called-- it is a method called classification
+and regression trees.
+In this case, we use multi-class classification.
+There are five classes, buckets one to five.
+To give you an example, let us consider
+patients that have two types of diagnosis:
+coronary artery disease and diabetes.
+So if a patient does not have a coronary artery disease,
+we'd classify the patient as bucket one.
+If it has coronary artery disease,
+then we check whether the person has diabetes or doesn't
+have diabetes.
+If it has diabetes, then it's bucket five, very high risk.
+And if it doesn't have diabetes, but given
+it has coronary artery disease, it
+is classified as bucket three.
+So this is an example in which we only have two diagnoses
+and we will state how the method works.
+In the application of Hawkeye, the most important factors
+were related to cost in the beginning.
+So in the beginning, the classification tree
+involved divisions based on cost.
+For example, if the patient had paid less than $4,000--
+so this is bucket one classification-- if it paid
+more than $4,000, then we further
+investigate whether the patient pays less than $40,000
+or more than $40,000 and so forth.
+As the tree grows, then the secondary factor
+is utilized later in the classification tree
+involve various chronic illnesses
+and some of the medical rules we discussed earlier.
+For example, whether or not the patient
+has asthma and depression or not.
+If it has asthma and depression, then it's bucket five.
+If it doesn't, then we consider a particular indicator
+indicating hylan injection, which
+is an indication of a possible knee
+replacement or arthroscopy.
+So if this indicator is equal to 1, then it's bucket three.
+If it's indicator is equal to 0, it's not present,
+then it's bucket one.
+So let us give some examples of bucket five.
+
+So an example is as follows.
+The patient is under 35 years old,
+he has between 3,300 and 3,900 in claims, coronary artery
+disease as a diagnosis, but no office visits in the last year.
+Another example of a category of a patient that
+is classified as bucket five are claims
+between $3,900 and $43,000 with at least $8,000
+paid in the last 12 months, $4,300 in pharmacy claims,
+and acute cost profile and cancer diagnosis.
+And another final example is more than $58,000 in claims,
+but at least $50,000 paid in the last 12 months,
+but not an acute profile.
+Classification trees have the major advantage
+as being interpretable by the physicians who
+observe them and judge them.
+
+In other words, people were able to identify
+these cases as reasonable.
+In other words, the human intuition
+agreed with the output of the analytics model.

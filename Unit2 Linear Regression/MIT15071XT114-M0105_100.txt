@@ -1,0 +1,81 @@
+
+In addition to what we have seen already,
+Moneyball also discusses several other things,
+for example, how it is easier to predict
+professional success of college players
+than high school players, that stealing bases,
+sacrifice bunting, and sacrifice flies are overrated,
+and pitching statistics do not accurately
+measure pitcher ability.
+Pitchers only control strikeouts,
+home runs, and walks.
+
+Where was baseball in 2002?
+The graph on the left is what we have
+seen in the beginning of this lecture.
+So before Moneyball techniques, analytic techniques,
+became more well-known, the A's were clearly an outlier.
+Recall that the A's are here, compared
+to the Red Sox and the Yankees.
+Just observe that the A's had 20 more wins than teams
+with equivalent payrolls.
+And they had as many wins as teams like the Red Sox
+that have more than double the payroll.
+
+Where is baseball now?
+The A's, in the green dot here-- and for reference, this
+is the Red Sox and the Yankees-- are still an efficient team.
+But they only have about 10 more wins
+than teams with equivalent payrolls.
+So specifically, there are fewer inefficiencies,
+because many of them were discovered
+after the book Moneyball was published.
+In fact, the use of analytics in general in baseball
+has now a name called sabermetrics.
+Of course, there has been a lot of work done in the field.
+Baseball Prospectus is a website devoted
+to the analytics of baseball.
+New concepts were introduced-- value of a replacement
+player, VORP, and defense independent between statistics,
+DIPS.
+There's another book that has been written.
+The title of the book is The Extra 2%:
+How Wall Street Strategies Took a Major League Baseball
+Team from Worst to First, dictating
+the story of the Tampa Bay Rays.
+And finally, analytics have been used
+in many game-time decisions in baseball,
+for example, the batting order, changing pitchers, et cetera.
+
+So what is happening with other baseball
+teams and other sports?
+So nowadays, every major league baseball team
+has a statistics/analytics group.
+In fact, the Red Sox implemented quantitative ideas
+and won the World Series for the first time
+in 2004, after 86 years.
+They in fact tried to hire Billy Bean in 2003,
+who accepted for one day, but then he changed his mind
+and went back to the Oakland A's.
+Analytics are also used in other sports,
+although it is believed that more teams use
+statistical analysis than is publicly known.
+
+And finally, what is the edge of using analytics?
+Models allow managers to more accurately value
+players and minimize risk.
+This is a direct quote from Moneyball.
+"In human behavior, there was always uncertainty and risk.
+The goal of the Oakland front office
+was simply to minimize the risk.
+Their solution wasn't perfect.
+It was just better than rendering decisions
+by gut feeling."
+And a final remark that, as you have observed
+throughout the lecture, that the model we introduced
+are reasonably simple.
+They involved regression ideas, and they did not
+involve many variables that are not that sophisticated.
+Yet they led to significant success of the Oakland A's
+and more generally, for teams that
+use the power of sports analytics.

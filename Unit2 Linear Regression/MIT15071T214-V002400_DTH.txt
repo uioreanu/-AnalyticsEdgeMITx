@@ -1,0 +1,103 @@
+
+In the previous video, we created a linear regression
+model in R. Using the summary function,
+we were able to see the coefficients as well
+as some other information.
+The output of the Coefficients section of the summary function
+is shown here.
+The independent variables are listed on the left.
+The Estimate column gives the coefficients for the intercept
+and for each of the independent variables in our model.
+The remaining columns help us to determine
+if a variable should be included in the model,
+or if its coefficient is significantly different from 0.
+A coefficient of 0 means that the value
+of the independent variable does not
+change our prediction for the dependent variable.
+If a coefficient is not significantly different from 0,
+then we should probably remove the variable from our model
+since it's not helping to predict the dependent variable.
+
+The standard error column gives a measure
+of how much the coefficient is likely to vary
+from the estimate value.
+The t value is the estimate divided by the standard error.
+It will be negative if the estimate
+is negative and positive if the estimate is positive.
+The larger the absolute value of the t value, the more likely
+the coefficient is to be significant.
+So we want independent variables with a large absolute value
+in this column.
+The last column of numbers gives a measure of how plausible
+it is that the coefficient is actually 0, given
+the data we used to build the model.
+The less plausible it is, or the smaller the probability number
+in this column, the less likely it
+is that our coefficient estimate is actually 0.
+This number will be large if the absolute value of the t value
+is small, and it will be small if the absolute value of the t
+value is large.
+We want independent variables with small values
+in this column.
+This is a lot of information, but the easiest way
+in R to determine if a variable is significant
+is to look at the stars at the end of each row.
+The star coding scheme is explained
+at the bottom of the Coefficients table.
+Three stars is the highest level of significance
+and corresponds to a probability value less than 0.001,
+or the smallest possible probabilities.
+Two stars is also very significant and corresponds
+to a probability between 0.001 and 0.01.
+One star is still significant and corresponds
+to a probability between 0.01 and 0.05.
+A period, or dot, means that the coefficient is almost
+significant and corresponds to a probability between 0.05
+and 0.10.
+When we ask you to list the significant variables
+in a problem, we will usually not include these.
+Nothing at the end of a row means that the variable is not
+significant in the model.
+If we look at the stars at the end
+of each row in this Coefficients table,
+we can see that Age and FrancePopulation are
+both insignificant in our model.
+Let's now switch to R and see if we
+can improve our linear regression model.
+In the previous video, we built a linear regression model,
+called model3, that used all of our independent variables
+to predict the dependent variable, Price.
+In our R Console, we can see the summary output of this model.
+As we just learned, both Age and FrancePopulation
+are insignificant in our model.
+Because of this, we should consider
+removing these variables from our model.
+Let's start by just removing FrancePopulation,
+which we intuitively don't expect
+to be predictive of wine price anyway.
+We'll create a new model, called model4,
+and again, we'll use the lm function
+to predict Price, using as independent variables AGST,
+HarvestRain, WinterRain, and Age.
+Just like before, we'll use the data set
+wine to build our model.
+Let's take a look at the summary of this new model, model4.
+
+We can see that the R-squared, for this model, is 0.8286
+and our Adjusted R-squared is 0.79.
+If we scroll back up in our R Console,
+we can see that for model3, the R-squared was 0.8294,
+and the Adjusted R-squared was 0.7845.
+So this model is just as strong, if not stronger,
+than the previous model because our Adjusted R-squared actually
+increased by removing FrancePopulation.
+If we look at each of our independent variables
+in the new model, and the stars, we
+can see that something a little strange happened.
+Before, Age was not significant at all in our model.
+But now, Age has two stars, meaning
+that it's very significant in this new model.
+This is due to something called multicollinearity.
+Age and FrancePopulation are what we call highly correlated.
+We'll learn more about correlation
+and multicollinearity in the next video.

@@ -1,0 +1,12 @@
+
+Hi.
+This is Iain, and welcome to the recitation
+for the visualization week.
+Today, we're going to be discussing examples
+of good and bad visualizations, and then discussing
+how to make better versions using our R skills.
+Remember, visualization is an art form,
+and it's inherently subjective.
+You should try to form your own opinions on the material
+as we go through it.
+So let's get started.

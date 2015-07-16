@@ -1,0 +1,13 @@
+
+This week, we'll discuss applications
+of analytics that were designed to disrupt
+a standard way of thinking.
+In the first lecture, we'll use analytics to model expert
+opinion, specifically in predicting
+the quality of health care.
+In the second lecture, we'll discuss the Framingham Heart
+Study, one of the most influential medical studies
+of the 20th century.
+Through these examples, we'll introduce
+classification problems and the method of logistic regression.
+Let's get started.

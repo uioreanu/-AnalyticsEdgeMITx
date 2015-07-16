@@ -1,0 +1,25 @@
+
+In this class, we'll cover these examples and many more.
+Each week will be composed of two lectures, a recitation,
+and homework assignments.
+Each lecture is focused on a different real-world example.
+We will teach analytics methods in the statistical software
+R. In the recitations, we will present
+another example of the methodology and more practice
+in R. In a homework assignment, we'll
+provide additional problems and datasets.
+Midway through the class, we will
+run an analytics competition.
+We'll challenge you to build a model
+and get the best accuracy possible.
+At the end of the class, we'll test you
+on all of the methods used.
+The questions will be real-world problems.
+Let me comment on the overall goal of the class.
+This class aims to make you comfortable using analytics
+in your career and your life.
+You will know how to work with real data,
+and will have learned many different methodologies,
+and how to use them using R. In the end of the day,
+we want to convince you that analytics provides
+an edge to your career and your life.

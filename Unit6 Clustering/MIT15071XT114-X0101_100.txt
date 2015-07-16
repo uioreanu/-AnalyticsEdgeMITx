@@ -1,0 +1,81 @@
+
+In this recitation, we will see how
+to apply clustering techniques to segment images,
+with the main application being geared towards medical image
+segmentation.
+At the end of this recitation, you
+will get a head start on how to cluster an MRI brain
+image by tissue substances and locate pathological anatomies.
+Image segmentation is the process
+of partitioning digital images into regions, or segments,
+that share the same visual characteristics, such as color,
+intensity, or texture.
+The segments should also be meaningful,
+as in they should correspond to particular surfaces, objects,
+or even parts of an object.
+Think of having an image of a water pond,
+a mountain chain in the backdrop, and the sky.
+Segmenting this image should ideally
+detect the three different objects
+and assign their corresponding pixels
+to three different regions.
+In few words, the goal of image segmentation
+is to modify the representation of an image from pixel data
+into something meaningful to us and easier to analyze.
+Image segmentation has a wide applicability.
+A major practical application is in the field
+of medical imaging, where image segments often
+correspond to different tissues, organs, pathologies, or tumors.
+Image segmentation helps locate these geometrically complex
+objects and measure their volume.
+Another application is detecting instances
+of semantic objects such as humans, buildings, and others.
+The two major domains that have seen much attention
+recently include face and pedestrian detection.
+The main uses of facial detection, for instance,
+include the development of the auto-focus in digital cameras
+and face recognition commonly used in video surveillance.
+Other important applications are fingerprint and iris
+recognition.
+For instance, fingerprint recognition
+tries to identify print patterns, including
+aggregate characteristics of ridges and minutiae points.
+In this recitation, we will look in particular
+at the medical imaging application.
+Various methods have been proposed to segment images.
+Clustering methods are used to group the points
+into clusters according to their characteristic features,
+for instance, intensity values.
+These clusters are then mapped back
+to the original spatial domain to produce
+a segmentation of the image.
+Another technique is edge detection,
+which is based on detecting discontinuities or boundaries.
+For instance, in a gray-scale image,
+a boundary would correspond to an abrupt change
+in the gray level.
+Instead of finding boundaries of regions in the image,
+there are other techniques called region
+growing methods, which start dividing
+the image into small regions.
+Then, they sequentially merge these regions together
+if they are sufficiently similar.
+In this recitation, our focus is on clustering methods.
+In particular, we will review hierarchical and k-means
+clustering techniques and how to use them in R.
+We will restrict ourselves to gray-scale images.
+Our first example is a low-resolution flower image
+whose pixel intensity information
+is given the data set flower.csv.
+Our second and major example involves two weighted MRI
+images of the brain.
+One image corresponds to a healthy patient,
+and the other one corresponds to a patient with a tumor
+called oligodendroglioma.
+The pixel intensity information of these two images
+are given in the data sets healthy and tumor.csv.
+The last video will compare the use, pros,
+and cons of all the analytics tools that we have seen so far.
+I hope that this will help you synthesize all
+that you've learned to give you an edge in the class
+competition that is coming up soon.

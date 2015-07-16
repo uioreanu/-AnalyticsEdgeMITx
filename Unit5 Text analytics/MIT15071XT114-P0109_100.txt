@@ -1,0 +1,13 @@
+
+This week we'll see how we can use analytics
+to understand opinions and intelligence.
+In the first lecture, we'll see how
+we can use Tweets on Twitter to understand sentiment and public
+perception.
+In the second lecture, we'll discuss
+how IBM built a computer that could beat the best
+human players at Jeopardy, a popular game show.
+Through these examples, we'll introduce the exciting area
+of text analytics, and see how we can turn words
+into variables to be used in our models.
+Let's get started.

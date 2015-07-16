@@ -1,0 +1,104 @@
+
+This is a lecture of how IBM built a computer that plays
+the very popular game of Jeopardy!.
+In 2004, IBM Vice President Charles Lickel and coworkers
+were having dinner at a restaurant.
+All of a sudden, the restaurant fell silent.
+Everyone was watching the game Jeopardy!
+on the television.
+A contestant, Ken Jennings, was setting the record
+for the longest winning streak of all time, 75 days.
+Why was everyone so interested?
+Jeopardy!
+is a quiz show that asks complex and clever questions like puns,
+obscure facts, and uncommon words.
+It originally aired in 1964.
+It covers a huge variety of topics,
+and it's generally viewed as an impressive feat
+to do well in this game.
+No computer system has ever been developed that could even come
+close to competing with humans on Jeopardy!.
+
+IBM Research strives to push the limits of science.
+It has a tradition of addressing inspiring and difficult
+challenges over the years.
+In the mid '90s, it built Deep Blue, a computer,
+to compete against the best human chess players,
+and then in the mid '90s, Deep Blue
+beat Garry Kasparov, who was at that time
+the world champion in chess.
+Later it built Blue Gene, a computer
+to map the human genome.
+
+In 2005, a team at IBM Research started
+creating a computer that would compete at Jeopardy!
+Of course, no one knew at the time how to beat humans
+or if it was even possible.
+Six years later, a two-game exhibition match
+aired on television.
+The winner would receive a million dollars.
+
+The contestants were Ken Jennings, the longest winning
+champion, whose longest winning streak was 75 days;
+Brad Rutter, who was the biggest money winner of over 3.5
+million; and Watson, a supercomputer with 3,000
+processors and a database of 200 million pages of information.
+
+This is Jeopardy!-- The IBM Challenge.
+
+And now, here is the host of Jeopardy!, Alex Trebek.
+
+Thank you, Johnny Gilbert.
+Thank you, ladies and gentlemen.
+And welcome, everyone, to a very special Jeopardy! event.
+For the next three days, we're going
+to be coming to you from this IBM Research facility just
+outside of New York City.
+And let me tell you why.
+A little over three years ago, the folks at IBM
+came to us with a proposal that they considered
+to be the next grand challenge in computing.
+And that was designing a computer system
+that could understand the complexities
+of natural language well enough to compete
+against Jeopardy!'s best players.
+Well, they think they've succeeded,
+and that's why we're here today.
+So you are about to witness what may prove to be an historic
+competition -- an exhibition match pitting an IBM computer
+system against the two most celebrated and successful
+players in Jeopardy! history.
+Sounds like a lot of fun, doesn't it?
+Developed and programmed especially for this moment,
+making its first appearance on our national television
+program, ladies and gentlemen, this is Watson.
+
+Just as I expected, that was a very warm reception.
+And I'm sure Watson would've appreciated
+the applause, except for one thing.
+Watson can neither hear nor see.
+It will be receiving all of its information electronically.
+And as a matter of fact, what you're looking at right now
+is not the real Watson.
+This is an avatar.
+This is a representation of Watson.
+Watson, of course, is a sophisticated computer system
+too big and too heavy to fit behind that lectern
+on our stage.
+But it is close by.
+It's right next door.
+And a little while ago, I paid it a visit.
+The very first thing you will notice
+as I come into Watson's space is noise.
+There is a lot of noise.
+A little bit comes from Watson himself, but most of the noise
+comes from two very large refrigerator
+units that help to keep Watson cool.
+Now as you can see, Watson has been set up in two units.
+Each half contains five separate racks.
+Each of these racks contains 10 IBM Power 750 servers.
+Now when you link all of these servers
+together, as they have done for Watson,
+you create a deep analytic system
+that is the equivalent of 2,800 powerful computers tied
+together in a super high speed network.

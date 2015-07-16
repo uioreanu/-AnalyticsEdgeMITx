@@ -1,0 +1,40 @@
+
+This is our first lecture on text analytics.
+We'll discuss how can use data from Twitter
+and turn them into knowledge.
+
+Twitter is a social networking and communication
+website founded in 2006.
+Users share and send messages that
+can be no longer than 140 characters long.
+It is indeed one of the Top 10 most visited sites
+on the internet.
+It had an initial public offering in 2013,
+and it's current valuation is about $31 billion.
+Let's discuss the impact of Twitter.
+Protesters around the world use Twitter.
+It had an important impact on Arab Spring.
+People also use it as a method of notification
+for natural disasters and for tracking diseases.
+Celebrities, politicians, and companies
+connect with fans and customers using Twitter.
+Everyone is watching.
+To illustrate this last point, let
+us discuss a tweet that was supposed
+to be from the Associated Press.
+The Associated Press is a major news agency
+that distributes news stories to other news agencies.
+In April 2013, someone tweeted this message
+from the main AP verified Twitter account.
+It said that two explosions in the White House and Barack
+Obama is injured.
+The S&P 500 stock index fell 1% in seconds,
+but the White House rapidly clarified.
+
+Many companies maintain online presences.
+Managing public perception in an age of instant communication
+is essential.
+Reacting to changing sentiment, identifying offensive posts,
+determining topics of interest are indeed crucial.
+In this lecture, we'll see how we
+can use analytics to address these questions.

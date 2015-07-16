@@ -1,0 +1,55 @@
+
+So far, we have used what is known as internal validation
+to test our model.
+This means that we took the data from one set of patients
+and split them into a training set and a testing set.
+While this confirms that our model is
+good at making predictions for patients in the Framingham
+Heart Study population, it's unclear
+if the model generalizes to other populations.
+The Framingham cohort of patients
+were white, middle class adults.
+To be sure that the model extends
+to other types of patients, we need
+to test on other populations.
+This is known as external validation.
+
+There have been many studies to test the Framingham model
+from the influential 1998 paper on diverse cohorts.
+This table shows a sample of studies
+that tested the model on populations
+with different races.
+The researchers for each study collected the same risk
+factors used in the original study,
+predicted CHD using the Framingham Heart Study model,
+and then analyzed how accurate the model
+was for that population.
+For some populations, the Framingham model was accurate.
+For the ARIC study that tested the model with black men,
+this figure shows a bar graph of how the Framingham predictions
+compare with the actual results.
+The gray bars are the predictions.
+And the black bars are the actual outcomes.
+The patients are sorted on the x-axis by predicted risk
+and on the y-axis by the percentage of patients
+in each group who actually developed CHD.
+For the most part, the predictions are accurate.
+There's one group for which the model under-predicted the risk
+and one group for which the model over-predicted the risk.
+But for other populations, the Framingham model
+was not as accurate.
+For the HHS study with Japanese-American men,
+the Framingham model systematically
+over-predicts a risk of CHD.
+
+The model can be recalibrated for this population
+by scaling down the predictions.
+This changes the predicted risk but not
+the order of the predictions.
+The high risk patients still have higher predictions
+than the lower risk patients.
+This allows the model to have more accurate risk estimates
+for populations not included in the original group of patients.
+For models that will be used on different populations
+than the one used to create the model,
+external validation is critical.

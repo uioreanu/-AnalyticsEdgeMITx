@@ -1,0 +1,11 @@
+
+Hi.
+I'm John, and I'll be leading the recitation this week.
+We'll be looking into how to use the text of emails
+in the inboxes of Enron executives
+to predict if those emails are relevant to an investigation
+into the company.
+We'll be extracting word frequencies
+from the text of the documents, and then
+integrating those frequencies into predictive models.
+Let's get started.

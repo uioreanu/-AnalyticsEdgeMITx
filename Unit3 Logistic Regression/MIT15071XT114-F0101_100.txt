@@ -1,0 +1,65 @@
+
+In this lecture, we'll describe the Framingham Heart Study, one
+of the most important epidemiological studies ever
+conducted, and the underlying analytics that
+led to our current understanding of cardiovascular disease.
+
+To motivate how the study affected our understanding
+of blood pressure today, we describe the case
+of Franklin Delano Roosevelt, FDR
+for short, who was the President of the United States
+from 1933 to 1945.
+He was the longest-serving president of the United States,
+and he led the country during difficult times --
+the Great Depression, and World War II.
+He died while President on April 12, 1945.
+Before the presidency, FDR's blood pressure was 140/100.
+Today, healthy blood pressure is considered
+to be less than 120/80.
+So therefore, 140/100 is today considered high blood pressure.
+One year before his death, his blood pressure was 210/120.
+Today this is called hypertensive crisis,
+and emergency care is needed.
+On the other hand, FDR's personal physician
+said a moderate degree of atherosclerosis
+although no more than normal for a man of his age.
+Two months before his death, his blood pressure was 260/150,
+and the day of his death was 300/190.
+There were early misconceptions in the first half
+of the 20th century about blood pressure.
+High blood pressure, dubbed essential hypertension,
+was considered important to force blood through arteries,
+and it was considered harmful to lower blood pressure.
+Today, of course, we know better.
+In the words of Daniel Levy, the Framingham Heart Study
+director, "today presidential blood pressure numbers
+like FDR's would send the country's leading doctors
+racing down hallways, whisking the nation's leader
+into the cardiac care unit of Bethesda Naval Hospital."
+So how did we learn?
+
+In the late 1940s, the US government
+set out to better understand cardiovascular disease.
+The plan was to track a large cohort of initially healthy
+patients over their lifetimes.
+A city was chosen, the city of Framingham, Massachusetts,
+to be the site for the study.
+Framingham has an appropriate size.
+It's not too large, it's not too small.
+It has a stable population that doesn't move too much.
+And the doctors and residents were quite cooperative.
+So in 1948, the Framingham Heart Study started.
+
+The study included 5,209 patients, aged 30 to 59.
+Patients were given a questionnaire
+and an examination every two years.
+During this examination, their physical characteristics
+were recorded, their behavioral characteristics, as well as
+test results.
+Exams and questions expanded over time,
+but the key in the study was that the trajectory
+of the health of the patients was
+followed during their entire lifespan.
+In this class, we will build models
+using the Framingham data to predict and prevent
+heart disease.

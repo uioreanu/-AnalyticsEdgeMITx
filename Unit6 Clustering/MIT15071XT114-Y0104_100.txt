@@ -1,0 +1,59 @@
+
+Let us see what we learned about the patterns that emerge.
+We will show that the clusters are interpretable
+and reveal unique patterns of diagnostic history
+among the population.
+We selected six patterns to present in this lecture--
+Cluster 1, 6, and 7, in Cost Bucket 2,
+and Clusters 4, 5, and 10, in Cost Bucket 3.
+
+The first pattern shows the occurrence of chest pain
+three months before the heart attack.
+Note that the red dots depict the visits per diagnosis
+for patients in Cluster 1-- this is, we think,
+Bucket 2-- and the blue dots depict the visits
+per diagnosis for patients in Bucket 2 throughout.
+Note the very significant increase
+for visits related to chest pains
+three months before the event.
+About 17, three months before for the red patients,
+and about 1 and 1/2 visits for the blue patients.
+
+The next pattern reveals an increasing occurrence
+of chronic obstructive pulmonary disease, COPD, for short.
+Patients from Cluster 7 in Bucket 2
+have regular doctor visits for COPD.
+Note that nine months before, we have
+4 and 1/2 visits versus 0.5 visits.
+Six months before, we have almost 7 visits versus 1/2
+a visit, and three months before, we
+have 9 visits versus 1/2 a visit for COPD,
+so a clear increasing pattern.
+The next pattern shows gradually increasing occurrence
+of anemia.
+The red line shows the patients in Cluster 4
+increasingly visit the doctor for anemia from nine months
+on before the event.
+Nine months before, members have an average of 9 visits
+to the doctor for anemia.
+
+This increases to an average of 11 visits six months
+before the event, and then an average of 15
+visits three months before the event, a clear increasing
+pattern.
+
+The final pattern shows the occurrence of diabetes
+as a pattern for heart attacks.
+It is well known that both types 1 and 2
+diabetes are associated with accelerated atherosclerosis,
+one of the main causes of myocardial infarction-- heart
+attacks, that is.
+Well known diagnoses associated with heart attacks,
+such as diabetes, hypertension, and hyperlipidemia,
+characterize many of the patterns of the consistency
+of care throughout all of the cost buckets and clustering
+models.
+
+You observe a difference, here, of the number
+of visits for diabetes for the population
+that had the event versus the average population.

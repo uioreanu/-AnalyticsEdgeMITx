@@ -1,0 +1,15 @@
+
+Welcome to 15.071x, the Analytics Edge.
+I'm Allison O'Hair, and together with Dimitris Bertsimas,
+we'll be the instructors for this course.
+During this week, we'll start with an introduction
+to analytics and to the topics we'll
+cover throughout the course.
+Then in the second lecture, we'll
+introduce R, a statistical modeling language that we'll
+use throughout most of the course.
+The recitation and homework assignment this week
+were designed to give you more practice working in R.
+And by the end of the week, we hope that you'll already
+be convinced about the power of data.
+Let's get started.

@@ -1,0 +1,9 @@
+
+Hi.
+My name is Iain, and I will be presenting
+a recitation for this week.
+We will be discussing regression trees
+and applying them to the house price data from Boston.
+We will also consider some alternative visualizations
+of both our model and our data.
+So let's get started.

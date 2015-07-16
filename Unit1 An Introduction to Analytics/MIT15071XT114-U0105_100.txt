@@ -1,0 +1,42 @@
+
+Our last example involves a company called D2Hawkeye,
+a medical software company founded in 2001.
+The company combined data with analytics
+to improve quality and cost management in health care.
+In 2009, the company was analyzing 20 million people
+monthly.
+It is impossible for humans to sift through patient records
+and assess quality and cost without algorithms.
+
+This motivated the approach that D2Hawkeye took.
+Let us discuss the data that D2Hawkeye utilized.
+Health care industry is data rich,
+but data may be hard to assess.
+It is often unstructured and unavailable.
+The company used insurance data regarding procedures,
+prescriptions, and diagnosis.
+It further defined new risk factors
+based on doctor's insights.
+For example, obesity and depression.
+Finally, it used demographic information,
+like gender and age.
+
+What were the analytics used?
+The goal was to predict future heath care costs,
+and identify high-risk patients to be
+prioritized for intervention.
+The company created interpretable models
+for doctors to analyze and verify.
+This led to significant improvements
+over just using historical costs.
+
+So what is the edge?
+
+The analytics used led to substantial improvement
+in D2Hawkeye's ability to identify
+patients who need more attention.
+The approach allowed expert knowledge
+to identify new variables and refine existing variables.
+Further, it allowed the ability to make predictions
+for millions of patients without manually
+reading patient's files.

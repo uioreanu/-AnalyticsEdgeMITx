@@ -1,0 +1,60 @@
+
+Recommendation systems are used in many different areas
+other than movies.
+Jeff Bezos, the CEO of Amazon, said
+that, "If I have 3 million customers on the web,
+I should have 3 million stores on the web."
+The internet allows for mass personalization,
+and recommendation systems are a key part of that.
+Recommendation systems build models
+about users' preferences to personalize the user
+experience.
+This helps users find items they might not have searched for,
+like a new favorite band, an old friend who
+uses the same social media network, or a book or song
+that they're likely to enjoy.
+Recommendation systems are a cornerstone
+of these top businesses.
+Social networking sites, like Facebook,
+music streaming sites, like Pandora, and retail companies,
+like Amazon, all provide recommendation systems
+for their users.
+Both collaborative filtering and content filtering
+are used in practice.
+Collaborative filtering is used by companies
+like Amazon, Facebook, and Google News.
+Content filtering is used by companies
+like Pandora, Rotten Tomatoes, and See This Next.
+And Netflix uses both collaborative filtering
+and content filtering.
+So now let's go back to the Netflix prize.
+29 days after last call was announced, on July 25, 2009,
+the team The Ensemble submitted a 10.09% improvement, beating
+the 10.05% improvement that was submitted by Bellkor's
+Pragmatic Chaos to signal last call.
+But by the time Netflix stopped accepting submissions the next
+day, Bellkor's Pragmatic Chaos had also submitted a 10.09%
+improvement, and The Ensemble had submitted a 10.10%
+improvement.
+To really test the algorithms, Netflix
+tested them on a private test set
+that the teams had never seen before.
+This is the true test of predictive ability.
+On September 18, 2009, Netflix announced that the winning team
+was Bellkor's Pragmatic Chaos.
+They won the competition and the $1 million grand prize.
+Recommendation systems provide a significant edge
+to many companies.
+In today's digital age, businesses often have hundreds
+of thousands of items to offer their customers,
+whether they're movies, songs , or people they might know
+on Facebook.
+Excellent recommendation systems can make or break
+these businesses.
+Clustering algorithms, which are tailored
+to find similar customers or similar items,
+form the backbone of many of these recommendation systems.
+Clustering also has many other interesting applications.
+In the next lecture, we'll see how clustering
+can be used to improve the predictive ability
+of classification methods.

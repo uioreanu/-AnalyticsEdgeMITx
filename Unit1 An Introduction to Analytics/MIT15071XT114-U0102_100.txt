@@ -1,0 +1,143 @@
+
+Our first example today is a story of IBM Watson.
+IBM research, a distinguished industrial laboratory,
+strives to push the limits of science.
+In the mid-1990s it created Deep Blue, a computer that
+beat Garry Kasparov, the world champion in Chess at the time,
+showing to the world that machines can beat humans
+in tasks that people thought were
+restricted to human intelligence.
+In the 1990s-- in the late 1990s--
+it created Blue Gene, a computer to map the human genome.
+In 2005 IBM decided to create a computer that
+would compete at Jeopardy, a popular game show.
+
+From the T.J. Watson Research Center
+in Yorktown Heights, New York, this
+is Jeopardy-- The IBM Challenge.
+Please welcome back our contestants.
+He has never been defeated.
+And his winnings of more than $3.2 million
+make him Jeopardy's all time biggest money winner.
+From Los Angeles, California, here's Brad Rutter.
+An IBM computer system able to rapidly understand and analyze
+natural language, including puns, riddles,
+and complex questions across a broad range of knowledge,
+please welcome Watson.
+In 2004 he captivated America by winning 74 consecutive matches
+and $2.5 million on Jeopardy.
+From Seattle, Washington, here's Ken Jennings.
+And now here is the host of Jeopardy, Alex Trebek.
+Thank you, Johnny.
+Before we get into the game, there
+are just a couple of things I need
+to tell you about this match.
+Now as I said earlier, Watson will receive the clues
+electronically as a text file at the same moment the clues are
+revealed to Ken and Brad.
+And at the same time I read them.
+This competition will be a two game
+total point exhibition match.
+However, these two games will be played out over the next three
+days so we can tell the full story.
+Throughout the games you'll get a glimpse of the thinking
+process, if you will, that is behind Watson's responses.
+Now this will be done through an answer panel display
+at the bottom of the screen.
+Let's play Jeopardy.
+Here we go.
+
+Our first round of play contains these categories--
+Literary Character APB, All Points Bulletin; Beatles
+People; Olympic Oddities; Name the Decade;
+Final Frontiers; and Alternate Meanings.
+A little while ago we had a drawing
+to determine which player would select first.
+Brad, you won that.
+So if you're ready make your first choice.
+Let's take alternate meanings for $200, Alex.
+Four letter word for a vantage point or a belief.
+Brad?
+What is a view?
+Yes.
+Alternate meanings, $400.
+4-letter word for the iron fitting
+on the hoof of a horse or a card-dealing box in a Casino.
+Watson?
+What is shoe?
+You are right.
+You get to pick.
+Literary Character APB for $800.
+Answer the Daily Double.
+Now Watson, although you have but $400,
+you know of course that you can risk up
+to the maximum value of a clue on the board.
+And that is $1,000.
+$1,000, please.
+All right.
+Here is the Daily Double clue for you.
+Wanted for killing Sir Danvers Carew.
+Appearance pale and dwarfish.
+Seems to have a split personality.
+Who is Hyde?
+Hyde, yes.
+Dr. Jekyll and Mr. Hyde, either one acceptable.
+You're now in the lead with $1400.
+Go again.
+Beatles People for $200.
+And any time you feel the pain, hey, this guy, refrain.
+Don't carry the world upon your shoulders.
+Watson?
+Who is Jude?
+Yes.
+Olympic Oddities for $200.
+Milorad Cavic almost upset this man's perfect 2008 Olympics,
+losing to him by one hundredth of a second.
+Watson?
+Who is Michael Phelps?
+Yes.
+Go.
+Name the Decade for $200.
+Disneyland opens and the peace symbol is created.
+Ken.
+What are the '50s?
+Yes.
+Final Frontiers for $1,000, Alex.
+Tickets aren't needed for this event,
+a black hole's boundary from which matter cannot escape.
+Watson?
+What is event horizon?
+Yes.
+Why is Jeopardy hard?
+Jeopardy asks the contestants to answer cryptic questions
+in a huge variety of categories.
+It is generally seen as a test of human intelligence,
+reasoning and cleverness.
+No links to the outside world are permitted.
+And new questions and categories are created for every show.
+
+Watson is a supercomputer with 3,000 processors
+and a database of 200 million pages of information.
+It has a massive number of data sources like encyclopedias,
+texts, manuals, magazines, Wikipedia, etc.
+IBM researchers who developed Watson
+used over 100 different analytical techniques
+for analyzing natural language, finding candidate answers
+and selecting the final answer.
+We'll discuss this more later in the class.
+In February, 2011, a two game exhibition match
+aired on television six years after the initial conception
+of the idea to build Watson.
+Watson competed against the best two human players of all time
+and challenged the meaning of intelligence.
+Now Watson is being used for many applications including
+selecting the best course of treatment for cancer.
+What is the edge in Watson?
+Watson combined many algorithms to increase
+accuracy and confidence.
+We'll cover many of them in this class.
+IBM approached the problem in a different way
+than how a humans does it.
+Watson deals with massive amounts of data,
+often in unstructured form, which is important
+as 90% of the data in the world is unstructured.

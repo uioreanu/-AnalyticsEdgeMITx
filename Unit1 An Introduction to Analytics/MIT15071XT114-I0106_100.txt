@@ -1,0 +1,53 @@
+
+After working in R, you often want
+to save your work so that you can easily re-run commands
+and rebuild models.
+There are several ways of doing this,
+but the method we recommend is by using
+what's called a script file.
+Let's open a new script file.
+Go to File, New Document, on a Mac, and File, New Script,
+on a PC.
+This will pop up a blank script file.
+You can copy and paste any commands
+that you've run in your console into the script file.
+For example, say we want to save the table commands we ran.
+Let's Copy the first table command
+and then Paste it into the script file.
+We can also take the first tapply command
+we ran, Copy and Paste it into our script file.
+Now, if you highlight these lines of code
+in the script file and press Command-Enter on a Mac,
+and Control-r on a PC, it will run these lines of code
+in your R console.
+So if you save this file and then reopen it
+when you start R next time, you can easily rerun any commands
+that you ran in this R session.
+A lot of times it's easier to just write
+commands in your script file and run them in your console
+because then they'll always be saved in your script file.
+You can add comments in your script file
+by using the pound sign.
+If you type pound, and then some comment
+describing your script file, and then highlight the whole thing
+and press Control-r or Command-Enter,
+you'll see that the comment runs in the console,
+but nothing happens.
+R recognizes this as a comment.
+If you want to save the output of your R session
+in your console, I recommend just saving it as a text file.
+In your console, you can go to file, Save to file,
+and this will save your output as a text file.
+You won't be able to easily rerun
+this in R like the script file, but it
+will have the summary output of what you did.
+When you close R, it will ask you
+if you want to save your workspace.
+Make sure you have everything you want in a script file
+and then don't worry about saving your workspace.
+These are the basics of R. We'll see
+a lot more in the rest of this class.
+But hopefully you've seen in this lecture
+how powerful R can be.
+In just one lecture, we performed insightful data
+analysis on an interesting data set.

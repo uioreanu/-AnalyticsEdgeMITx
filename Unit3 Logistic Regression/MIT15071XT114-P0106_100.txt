@@ -1,0 +1,9 @@
+
+Hi.
+I'm John, and I'll be leading the recitation this week.
+We'll be using polling data from the months leading up
+to a presidential election to predict that election's winner.
+We'll go over how to build logistic regression
+models in R, how to select the variables to include
+in those models, and how to evaluate the model predictions.
+Let's get started.

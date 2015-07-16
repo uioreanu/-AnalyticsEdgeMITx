@@ -1,0 +1,152 @@
+
+The goal of a baseball team is to make the playoffs.
+The A's approach was to get to the playoffs
+by using analytics.
+We'll first show how we can predict whether or not
+a team will make the playoffs by knowing how many games they
+won in the regular season.
+We'll then use linear regression to predict
+how many games a team will win using
+the difference between runs scored and runs allowed,
+or opponent runs.
+We'll then use linear regression again
+to predict the number of runs a team will score
+using batting statistics, and the number of
+runs a team will allow using fielding and pitching
+statistics.
+We'll start by figuring out how many games a team needs
+to win to make the playoffs, and then
+how many more runs a team needs to score than their opponent
+to win that many games.
+
+So our first question is: how many games does a team
+need to win in the regular season
+to make it to the playoffs?
+In Moneyball, Paul DePodesta reduced the regular season
+to a math problem.
+He judged that it would take 95 wins for the A's to make it
+to the playoffs.
+Let's see if we can verify this using data.
+
+This graph uses data from all teams and seasons
+from 1996 to 2001.
+There's a point on the graph for every team and season pair.
+They're sorted on the x-axis by number of wins
+and on the y-axis by team.
+The gray points correspond to the teams that did not
+make the playoffs, and the red points
+correspond to the teams that did make the playoffs.
+This graph shows us that historically,
+if a team won 95 or more games, or is
+on the right side of this line, then they almost all
+made it to the playoffs.
+But if a team only won, say, 85 or more games,
+then they were likely to make it to the playoffs
+but it wasn't as certain.
+And if a team won, say, 100 or more games,
+than they definitely made it to the playoffs.
+So this plot shows us that historically,
+if a team won 95 or more games, then
+they had a strong chance of making it
+to the playoffs, which confirms Paul DePodesta's claim.
+
+So we know that a team wants to win 95 or more games,
+but how does a team win games?
+Well, they score more runs than their opponent does.
+We just need to figure out how many more.
+The A's calculated that they needed
+to score 135 more runs than they allowed
+during the regular season to expect to win 95 games.
+Let's see if we can verify this using linear regression in R.
+In our R console, let's start by loading our data.
+We'll call our data frame baseball,
+and use the read.csv function to read in the data file
+baseball.csv.
+
+Don't forget to make sure you're in the folder on your computer
+containing this file first.
+We can look at the structure of our data
+using the str function.
+
+This data set includes an observation
+for every team and year pair from 1962 to 2012
+for all seasons with 162 games.
+We have 15 variables in our data set, including Runs Scored, RS,
+Runs Allowed, RA, and Wins, W. We also
+have several other variables that we'll
+use when building models later on in the lecture.
+Since we're confirming the claims made in Moneyball,
+we want to build models using data Paul DePodesta had
+in 2002, so let's start by subsetting our data
+to only include the years before 2002.
+We'll call our new data frame moneyball,
+and we'll use the subset function
+to take a subset of baseball and only take
+the observations for which Year is less than 2002.
+If we take a look at the structure of moneyball,
+we can see that we now have 902 observations of the same 15
+variables.
+So we want to build a linear regression equation
+to predict wins using the difference between runs
+scored and runs allowed.
+To make this a little easier, let's start
+by creating a new variable.
+We'll call it moneyball$RD, for run difference,
+and set it equal to moneyball$RS, runs scored,
+minus moneyball$RA, runs allowed.
+If we take a look at the structure of moneyball again,
+we can now see that we have a new variable, RD,
+at the bottom of our variable list.
+Now, before we build the linear regression equation,
+let's visually check to see if there's
+a linear relationship between Run Difference and Wins.
+We'll do that by creating a scatter plot with the plot
+function.
+On the x-axis, we'll put RD, Run Difference, and on the y-axis,
+we'll put W, Wins.
+
+This scatter plot shows us that there's
+a very strong linear relationship between these two
+variables, which is a good sign for our linear regression
+equation.
+So now let's go back to our R console
+and we'll create our linear regression
+model, which we'll call WinsReg, and we'll
+use the lm function to predict W, or Wins, using
+the independent variable RD, and we'll
+use the data set moneyball.
+
+We can take a look at the summary of our regression
+equation using the summary function, which shows us
+that RD is very significant with three stars,
+and the R-squared of our model is 0.88.
+So we have a strong model to predict wins
+using the difference between runs scored and runs allowed.
+Now, let's see if we can use this model
+to confirm the claim made in Moneyball that a team needs
+to score at least 135 more runs than they
+allow to win at least 95 games.
+
+Our Coefficients table tells us that our regression equation
+is Wins equals the intercept term, 80.8814,
+plus the coefficient for run difference, 0.1058,
+times RD, or Run Difference.
+We want Wins to be greater than or equal to 95
+so that the A's make it to the playoffs.
+This will be true if and only if our regression equation
+is greater than or equal to 95.
+So we want 80.8814 plus 0.1058 times Run Difference, or RD,
+to be greater than or equal to 95.
+By rearranging this equation, we can
+see that this will be true if and only if Run Difference is
+greater than or equal to 95 minus the intercept term,
+80.8814, divided by 0.1058, the coefficient for Run Difference.
+This is equal to 133.4.
+So this tells us that if the run difference of a team
+is greater than or equal to 133.4,
+then we predict that the team will win at least 95 games.
+This is very close to the claim made in Moneyball
+that a team needs to score at least 135 more runs than they
+allow to win at least 95 games.
+So by using linear regression and data,
+we were able to verify Paul DePodesta's claim.

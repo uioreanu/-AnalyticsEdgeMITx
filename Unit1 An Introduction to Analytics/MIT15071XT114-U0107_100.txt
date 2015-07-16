@@ -1,0 +1,40 @@
+
+In this first recitation, we will
+try to understand various nutritional facts about food,
+while getting more practice using R. Good nutrition
+is an important part of leading a healthy lifestyle.
+Malnutrition can result in obesity,
+which has been rising at an alarming rate.
+In the US for instance, while all states in 1990
+had less than 14% obesity, figures started increasing.
+And by 2000, half of the country has more than 20%
+of its population obese.
+The trend continues.
+And in 2010, all states have at least more than 20%
+of their population obese.
+Many states across the country reached an alarming situation.
+More than 35% of American adults are obese.
+The trends Worldwide are no different.
+Obesity has nearly doubled across the globe.
+Obesity is one of today's blatantly visible public health
+problems, and increases people's risk
+to heart disease, stroke, and diabetes.
+In fact 65% of the world's population
+lives in countries where obesity kills
+more people than underweight.
+So good nutrition is essential for an overall healthy
+lifestyle and promoting it now is more important than ever.
+We have access to hundreds of nutrition and weight loss
+applications, and around 15% of adults with cell phones
+use health applications on their devices.
+These apps are mostly powered by the United States Department
+of Agricultural, or USDA, food database.
+The United States Department of Agricultural
+distributes nutritional information
+of over 7,000 food items including
+amount of calories, carbs, protein, fat,
+and sodium, among other nutrients.
+It is exactly this data that we will
+be analyzing in this recitation.
+In the next video, we will read in the USDA data set in R
+and get more familiar with its content.

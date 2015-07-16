@@ -1,0 +1,51 @@
+
+We will discuss the results of the classification tree model.
+
+So we first observe that the overall accuracy
+of the method regarding the percentage that it accurately
+predicts is 80%, compared to 75% of the baseline.
+But notice that this is done in an interesting way.
+For bucket one patients, the two models are equivalent.
+But of course this suggests the idea
+that healthy people stay healthy,
+which is the idea of the baseline model.
+The cost repeats is valid in the data.
+But then for buckets two to five,
+notice that the accuracy increases substantially from
+31% to 60%-- it doubles-- from 21% to 53%--
+more than doubles-- and from 19% to 39%-- doubles.
+There's an improvement from 23% to 30%, not as big as before,
+but there is indeed an improvement for bucket five.
+But notice the improvement on the penalty from 0.56 to 0.52
+overall.
+A small improvement in bucket one,
+but a significant improvement as we increase on the buckets.
+For example, here for bucket five,
+the penalty error decreases from 1.88 to 1.01,
+a substantial improvement.
+
+So we observed that there's a substantial improvement
+over the baseline, especially as we go down on buckets.
+It doubles the accuracy over the baseline in some cases.
+
+And so we have seen there's a smaller accuracy
+improvement in bucket five, but there's a much lower penalty
+in the prediction for bucket five.
+So what is the edge of the analytics
+provided to D2Hawkeye?
+First and foremost, there was a substantial improvement
+in the company's ability to identify
+patients who need more attention.
+
+Another advantage was related to the fact
+that the model was in fact interpretable by physicians.
+So the physicians were able to improve the model
+by identifying new variables and refining existing variables.
+That really led to further improvements.
+Finally, and quite importantly, the analytics
+gave the company an edge over the competition using--
+that the competition used last century methods.
+And the use of machine learning methods--
+in this case, classification trees--
+provided an edge that also helped Hawkeye
+when it was sold to Verisk Analytics in 2009.

@@ -1,0 +1,94 @@
+
+In this lecture, we will discuss how visualization
+can offer insights in the area of policing
+in urban environments.
+The explosion of computerized data
+affects all parts of society, including policing.
+In the past, human judgment and experience
+was the only tool in identifying patterns in criminal behavior.
+Police forces around the United States and the world
+are augmenting human judgment with analytics.
+Los Angeles police worked for months
+to catch Manson and his followers.
+These days the LAPD is on an offensive to prevent crime.
+Its latest weapon is a computer program
+that can actually predict where crimes will happen.
+And justice correspondent Bob Orr
+has a first look at the results.
+In the Foothill Division north of downtown Los Angeles,
+police are patrolling the largely
+working-class neighborhoods with specially marked maps.
+The small red squares are hot spots,
+where computers project property crimes are most likely.
+It's called predictive policing.
+A program which Captain Sean Malinowski says
+puts officers on the scene before crimes occur.
+65% of our crimes are burglary, grand theft auto,
+and burglary for motor vehicle.
+And that's what these boxes represent.
+That's a pretty small box, 500 feet by 500 feet.
+Yes, it is a small area.
+These crime prediction boxes come
+from the same kind of mathematical calculation used
+to predict earthquakes and aftershocks.
+By analyzing the times, dates, and places of recent crimes
+computers project hot spots for burglaries, break-ins, and car
+thefts.
+LA's Police Chief Charlie Beck says
+increasing police patrols inside those boxes
+denies criminals opportunity.
+The real measure of this is not how many people you catch,
+it's how much crime you prevent.
+I love catching people.
+It's what I live for.
+But, what I'd rather do is live in a place and work in a place
+where crime didn't happen.
+Chief Beck, a 35-year veteran and the father of two LAPD
+officers, has faced some skepticism
+in selling the predictive concept.
+You're a street cop.
+I am.
+So somebody comes to you with a computer program that says,
+here we're going to predict the future,
+we're going to tell you where crime is going to occur.
+Aren't some of the guys on the street just going
+to roll their eyes and say, oh come on?
+Well, of course.
+I mean, that's the nature of human beings.
+I mean everybody thinks that they do their profession as
+well as it can be done already, so they don't need any help.
+If this old street cop can change the way
+that he thinks about this stuff, then I
+know that my kids can do the same.
+The LAPD began testing the predictive policing model here
+in the Foothill Division in November,
+and the early results are encouraging.
+Burglaries are down 33%, and violent crime is also down 21%.
+That success will allow Beck to expand the program
+to other parts of the city and leverage limited resources.
+I'm not going to get more money.
+I'm not going to get more cops.
+But I have to be better at using what I have,
+and that's what predictive policing is about.
+It's also about driving the crime rate lower.
+Crime here has dropped nine straight years.
+With these small red boxes, LA is aiming for 10.
+Bob Orr, CBS News, Los Angeles.
+The Los Angeles Police Chief Charlie Beck
+writes, "I'm not going to get more money.
+I'm not going to get more cops.
+I have to be better at using what I have,
+and that's what predictive policing is about.
+If this old street cop can change the way
+that he thinks about this stuff, then I
+know that my officers can do the same."
+Let me comment on the role of analytics.
+The analytical tools you have learned in this class
+can be used to make these predictive policing models
+possible.
+However, communicating the results of these models
+is critical.
+A linear regression output table will not
+be of use to a police person on patrol.
+Visualization bridges the gap between the analytics
+and the end user.

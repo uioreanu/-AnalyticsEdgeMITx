@@ -1,0 +1,48 @@
+
+In this lecture, we discuss the idea
+of predictive analytics in medicine.
+Specifically, we introduce the idea
+of using clustering methods for better predicting heart
+attacks.
+Heart attacks are a common complication of coronary heart
+disease, resulting from the interruption of blood supply
+to part of the heart.
+Heart attack is the number one cause
+of death for both men and women in the United States.
+About one in every four deaths is due to heart attack.
+A 2012 report from the American Heart Association
+estimates about 715,000 Americans have a heart attack
+every year.
+To put this number into perspective,
+this means that every 20 seconds, a person
+has a heart attack in the United States.
+It is also equivalent of September the 11th
+repeating itself every 24 hours, 365 days a year.
+Nearly half of these attacks occur
+without prior warning signs.
+In fact, 250,000 Americans die of sudden cardiac death
+yearly, which means 680 people every day die
+of sudden cardiac death.
+
+A heart attack has well-known symptoms-- chest pain,
+shortness of breath, upper body pain, nausea.
+The nature of heart attacks, however,
+makes it hard to predict, prevent, and even diagnose.
+Here are some statistics.
+25% of heart attacks are silent.
+47% of sudden cardiac deaths occur outside hospitals,
+suggesting that many patients do not act on early warning signs.
+Only 27% percent of respondents to a 2005 survey
+recognized the symptoms and called 911 for help.
+How can analytics help?
+The key to helping patients is to understand
+the clinical characteristics of patients
+in whom heart attacks was missed.
+We need to better understand the patterns in a patient's
+diagnostic history that link to heart attack
+and to predicting whether a patient is
+at risk for a heart attack.
+We'll see, in this lecture, how analytics
+helps to understand patterns of heart attacks
+and to provide good predictions that in turn lead to improved
+monitoring and taking action early and effectively.

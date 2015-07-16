@@ -1,0 +1,14 @@
+
+This week, we'll be discussing the power of visualizations
+for understanding worldwide trends
+and for using analytics to stop crime.
+In the first lecture, we'll use data from the World Health
+Organization to create visualizations
+that help us understand and communicate
+global health trends.
+In the second lecture, we'll discuss predictive policing,
+and how police departments across the country
+are using data and analytics to improve decision making.
+Through these examples, we'll create visualizations in R
+that help us understand our data and our models.
+Let's get started.

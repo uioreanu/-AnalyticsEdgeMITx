@@ -1,0 +1,15 @@
+
+Hello, this is Dimitris.
+This week, our lectures focus on applications of analytics
+into interesting areas.
+In the first lecture, we'll describe
+how a Princeton professor used linear regression
+to predict the quality of wine.
+In the second lecture, we'll discuss the story
+of Moneyball, and how data and analytics was
+used to create a championship team.
+Through these examples, we will teach you
+the method of linear regression.
+In both lectures, we'll use data to replicate the models in
+R, and show how simple analytics can create a significant edge.
+Let's get started.

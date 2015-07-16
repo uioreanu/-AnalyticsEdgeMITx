@@ -1,0 +1,10 @@
+
+Hi.
+My name is Nataly, and I will be leading this recitation.
+We will review hierarchical and k-means clustering techniques
+and apply them to segment gray scale images--
+in particular, MRI brain images.
+Then we will conclude by overviewing all the analytics
+tools we have seen so far in this class
+to prepare for the class competition.
+Let's get started.

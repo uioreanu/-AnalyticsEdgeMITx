@@ -1,0 +1,111 @@
+
+In the previous video, we used data and linear regression
+to show that if a team scores at least 135
+more runs than their opponent throughout the regular season,
+then we predict that the team will win at least 95 games
+and make the playoffs.
+This means that we need to know how many runs a team will
+score, which we'll show can be predicted
+with batting statistics, and how many runs a team will allow,
+which we'll show can be predicted
+using fielding and pitching statistics.
+
+Let's start by creating a linear regression
+model to predict runs scored.
+The Oakland A's were interested in answering the question: how
+does a team score more runs?
+They discovered that two particular baseball statistics
+were very predictive of runs scored:
+on-base percentage, or OBP, and slugging percentage, or SLG.
+On-base percentage is the percentage
+of time a player gets on base, including walks.
+Slugging percentage measures how far
+a player gets around the bases on his turn,
+and measures the power of a hitter.
+Most baseball teams and experts have historically
+focused on batting average, which
+measures how often a hitter gets on base by hitting the ball.
+It's similar to on-base percentage but excludes walks.
+The Oakland A's claimed that on-base percentage was
+the most important statistic for predicting runs.
+That it doesn't matter if a player gets on base
+by hitting the ball or walking, just that they got on base.
+They also claimed that slugging percentage was important,
+and batting average was overvalued.
+Let's see if we can use linear regression in R,
+to verify which baseball statistics are
+important for predicting runs scored.
+In the previous video, we created
+our data set and called it moneyball.
+In our R Console, let's take a look
+at the structure of our data, again, using the str function.
+
+Our data set has many variables, including runs scored, RS,
+on-base percentage, OBP, slugging percentage, SLG,
+and batting average, BA.
+We want to see if we can use linear regression to predict
+runs scored, RS, using these three hitting statistics--
+on-base percentage, slugging percentage and batting average.
+So let's build a linear regression equation.
+We'll call it RunsReg, and we'll use the lm function
+to predict runs scored, RS, using OBP, SLG, and BA.
+We'll use the data set moneyball.
+
+If we take a look at the summary of our regression equation,
+we can see that all of our independent variables
+are significant, and our R-squared is 0.93.
+But if we look at our coefficients,
+we can see that the coefficient for batting average
+is negative.
+This implies that, all else being equal,
+a team with a lower batting average
+will score more runs, which is a little counterintuitive.
+What's going on here is a case of multicollinearity.
+These three hitting statistics are highly correlated,
+so it's hard to interpret the coefficients of our model.
+Let's try removing batting average, the variable
+with the least significance, to see what happens to our model.
+So let's hit the up arrow twice, and then delete BA
+from our model, and hit Enter.
+And then, hit the up arrow twice again to look at the new model.
+We can see that our independent variables are still
+very significant, the coefficients are both positive
+as we expect, and our R-squared is still about 0.93.
+So this model is simpler, with only two independent variables,
+and has about the same R-squared.
+Overall a better model.
+You could experiment and see that if we'd
+removed on-base percentage or slugging percentage instead
+of batting average, our R-squared would have decreased.
+If we look at the coefficients of our model,
+we can see that on-base percentage has a larger
+coefficient than slugging percentage.
+Since these variables are on about the same scale,
+this tells us that on-base percentage is probably
+worth more than slugging percentage.
+So by using linear regression, we're
+able to verify the claims made in Moneyball:
+that batting average is overvalued,
+on-base percentage is the most important, and slugging
+percentage is important for predicting runs scored.
+We can create a very similar model
+to predict runs allowed, or opponent runs.
+This model uses pitching statistics: opponents
+on-base percentage, or OOBP, and opponents slugging percentage,
+or OSLG.
+These statistics are computed in the same way
+as on-base percentage and slugging percentage,
+but they use the actions of the opposing batters
+against our team's pitcher and fielders.
+Using our data set in R, we can build a linear regression model
+to predict runs allowed, using opponents on-base percentage
+and opponents slugging percentage.
+This is, again, a very strong model with an R-squared value
+of 0.91, and both variables are significant.
+The key message here is that simple models, using
+only a couple independent variables,
+can be constructed to answer some
+of the most important questions in baseball.
+In the next video, we'll show how
+we can apply these models to predict whether or not
+a team will make the playoffs.

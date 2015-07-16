@@ -1,0 +1,30 @@
+
+Let us comment on the results of the study.
+Robert Parker predicted that the 1986 Bordeaux wine is very good
+to sometimes exceptional.
+On the other hand, Ashenfelter said
+that the 1986 Bordeaux wine is mediocre.
+And made the prediction that the 1989 Bordeaux would
+be the wine of the century and the 1990 Bordeaux
+would be even better.
+In wine options, the 1989 Bordeaux wine
+sold for more than twice the price of 1986.
+And the 1990 Bordeaux wine sold for even higher prices.
+Later, Ashenfelter predicted that the 2000 and the 2003
+Bordeaux wines would be great.
+And in this case, Robert Parker stated
+the 2000 is the greatest vintage Bordeaux has ever produced,
+in agreement with Ashenfelter.
+
+So what is the analytics edge in this case?
+What we have developed is a linear regression model,
+a simple but rather powerful model
+for predicting quality of wines.
+It only used few variables and we
+have seen that it predicted wine prices quite well.
+In fact, in many cases it outperformed
+wine expert's opinions.
+And what is impressive, in this first introductory lecture
+to linear regression, is that an analytics approach that
+uses data to build a model that improves decision making
+is effective in a traditionally qualitative problem.

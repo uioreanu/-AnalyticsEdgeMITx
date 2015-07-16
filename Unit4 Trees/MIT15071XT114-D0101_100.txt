@@ -1,0 +1,56 @@
+
+This is a story of D2Hawkeye, a medical data mining
+company located in Waltham, Massachusetts.
+The company was founded by Chris Kryder, a medical doctor who
+was an MIT physician in the 1990s.
+The company was founded in 2001.
+I have been in the board of this company since 2002.
+The company combines expert knowledge
+and databases with analytics to improve quality and course
+management in health care.
+The company was located in Waltham, Massachusetts.
+It grew very fast and was sold to Verisk Analytics in 2009.
+The overall process that D2Hawkeye uses is as follows.
+It starts with medical claims that
+consist of diagnoses, procedures, and drugs.
+These medical claims are then processed
+via process of aggregation, cleaning, and normalization.
+This data then enters secure databases
+on which predictive models are applied.
+The output of predictive models are specific reports
+that give insight to the various questions
+that D2Hawkeye aspires to answer.
+
+The company tries to improve health care case management.
+Specifically, it tries to identify high-risk patients,
+work with patients to manage treatment and associated costs,
+and arrange specialist care.
+
+Medical costs, of course, is a serious matter
+both for the patient as well as the provider.
+Being able to predict this cost is an important problem
+that interests both the patients as well as the providers.
+The overall goal of D2Hawkeye is to improve
+the quality of cost predictions.
+D2Hawkeye had many different types of clients.
+The most important were third party administrators
+of medical claims.
+Third party administrators are companies
+hired by the employer who manage the claims of the employees.
+Now the type of clients were case management companies,
+benefits consultants, and health plans.
+The company grew and by 2009, it analyzed monthly millions
+of people through the analytic platform it built.
+This corresponded to thousands of employers
+that were processed monthly.
+
+To analyze the data, the company used
+what we call a pre-analytics approach.
+This was based on the human judgment of physicians
+who manually analyze patient histories and developed
+medical rules.
+Of course, this involved human judgment,
+utilized a limited set of data, it
+was often costly, and somewhat inefficient.
+The key question we analyze in this lecture
+is "Can we use analytics instead?"

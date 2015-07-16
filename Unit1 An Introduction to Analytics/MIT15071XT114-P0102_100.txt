@@ -1,0 +1,9 @@
+
+Welcome to our first recitation.
+My name is Nataly.
+Throughout the upcoming videos, we
+will get more familiar with R and review some basic functions
+to read, visualize, and analyze data sets.
+We will be looking at nutritional data of over 7,000
+foods distributed by the US Department of Agricultural.
+Let's get started.

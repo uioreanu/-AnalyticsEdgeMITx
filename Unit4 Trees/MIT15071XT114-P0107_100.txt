@@ -1,0 +1,16 @@
+
+Hello.
+This week we'll be discussing the application of analytics
+into very different areas-- the Supreme Court
+and health care cost prediction.
+In the first lecture, we'll discuss
+how the decisions of the United States Supreme Court
+can be predicted before the case even gets to the court.
+In the second lecture, we'll discuss the story
+of D2Hawkeye, a medical data-mining company I have been
+involved with for several years that
+use analytics to gain an edge.
+Through these examples, we'll introduce the method
+of classification and regression trees, a very interpretable
+analytics method.
+Let's get started.

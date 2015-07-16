@@ -1,0 +1,21 @@
+
+Let me comment on the merits of heatmaps
+as a way of representing data in the context of representing
+crime activity.
+Criminal activity-related data often
+has both components of time and location.
+Sometimes, all that is required is a line chart,
+but heatmaps can visualize data that
+will be too big for a table.
+Plotting data on maps is much more effective
+than a table for location based data, and is eye catching.
+What is the edge of predictive policing?
+Many police forces are exploiting their databases
+to focus finite resources on problem areas.
+Not only do analytics help improve policework,
+the outputs are also good communication tools
+to decision makers in government, and the wider
+public.
+The application of analytics to data like this
+is new and growing, with companies
+like PredPol and Palantir leading the effort.

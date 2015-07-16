@@ -1,0 +1,14 @@
+
+Let's conclude with a word about the status of predictive coding
+today.
+In legal systems, it's difficult to change existing practice
+because of laws reliance on past precedent, which
+causes current decisions to be made on the basis of past ones.
+Because the types of eDiscovery admissible in court
+have historically been limited to keyword search coupled
+with manual review, nearly all cases
+today use this eDiscovery approach.
+However, this status quo seems to be starting to change.
+In 2012, a US District Court ruled that predictive coding
+was a legitimate eDiscovery tool, which
+may pave the way for its expanded use in coming years.

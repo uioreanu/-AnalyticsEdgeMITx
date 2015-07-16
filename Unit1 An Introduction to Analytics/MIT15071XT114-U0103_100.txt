@@ -1,0 +1,28 @@
+eHarmony is an online dating site
+focused on long term relationships.
+It takes a scientific approach to love and marriage.
+About nearly 4% of US marriages in 2012
+are a result of eHarmony.
+The company has generated over $1 billion
+in cumulative revenue from 2000, the year it was founded.
+The overall approach first predicts
+if users will be compatible using 29 different dimensions
+of personality and using linear regression.
+Then using optimization, eHarmony finds
+matches for everyone.
+eHarmony has members in more than 150 countries.
+Since launching in 2000, it has more than 33 million members,
+and it now operates eHarmony Labs, a relationship research
+facility.
+
+eHarmony collects data through 436 questions.
+Almost 15,000 people take the questionnaire each day.
+
+What is the edge of eHarmony?
+It relies much more on data than other dating sites.
+It suggests a limited number of high quality matches.
+Users don't have to search and dig through profiles.
+eHarmony has successfully leveraged the power
+of analytics to create a successful and thriving
+business.
+It represents 14% of the US online dating market.

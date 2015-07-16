@@ -1,0 +1,42 @@
+
+Let us examine what we learned in this lecture.
+We built an expert-trained model by a physician
+that can accurately identify diabetic patients receiving
+low quality care.
+We have observed that the out of sample accuracy of the model
+was 78%.
+But most importantly, the model identifies most patients
+receiving poor care, which is the major objective
+in the study.
+
+Logistic regression models provide
+probabilities of somebody receiving poor quality care.
+These probabilities can be used to prioritize patients
+for intervention, a particularly useful outcome from the study.
+While the accuracy is reasonably high, 78%,
+it can be, of course, further improved.
+In that respect, I expect that electronic medical records, not
+only claims, could be used in the future
+to enhance the predictive capability of such models.
+So a model like the one we built can
+be used to analyze literally millions of records.
+Whereas a human can only accurately analyze rather small
+amounts of information.
+So clearly such a model allows significantly larger
+scalability.
+
+Of course models do not replace expert judgement.
+However, models provide a way to translate expert judgement
+to a reproducible, testable prediction methodology that
+has significantly higher scalability, as we discussed.
+And of course experts can continuously improve and refine
+the model, as we have seen in this lecture.
+
+Finally, and quite importantly, models
+can integrate assessments of multiple experts
+into one final, unbiased, and unemotional prediction.
+
+And such methods of combining assessments and combining
+models is a tool that we will use
+later in the class on multiple occasions
+as a way of enhancing and improving quantitative models.

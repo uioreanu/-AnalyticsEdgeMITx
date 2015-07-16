@@ -1,0 +1,120 @@
+
+Today's lecture is a story of Moneyball,
+a book by Michael Lewis in 2003 and a movie in 2011
+starring Brad Pitt.
+Moneyball discusses how sports analytics changed baseball.
+Moneyball tells the story of the Oakland A's.
+The A's is a team near San Francisco, California.
+They were once a rich team, but the team
+was purchased in 1995 by owners who
+enforced strict budget cuts.
+Despite this, they were improving
+over the years 1997 to 2001.
+In the table, you can see that the percentage of wins
+was increasing in each and every year.
+
+This was puzzling, and many baseball experts
+thought it was just luck.
+In 2002, the A's lost three key players.
+The key question: could they continue winning without them?
+So what is the key problem?
+Let us discuss the graph on the left of the screen.
+The horizontal axis shows the average payroll
+during the years 1998 to 2001.
+The vertical axis shows the average yearly wins
+over the same years.
+So let's look at some of the teams in this graph.
+So which one is this team?
+This is a team that won about 100 games
+and spent roughly $90 million during this period.
+So this is the New York Yankees.
+
+Let's look at this team.
+This team spent about $80 million and won about 90 games.
+This is the Red Sox.
+
+Where are the Oakland A's?
+The A's are here.
+
+They won about 90 games, and they spent under $30 million.
+If you compare it with the Red Sox,
+they won about the same number of games during this period
+but the Red Sox spent about $50 million more per year than
+the A's.
+
+Clearly, rich teams like the Yankees and the Red Sox
+can afford the all-star players.
+But please observe how efficient the A's are.
+As I mentioned, they won 90 games,
+and their payroll was under $30 million
+compared to the Yankees, who spent almost three
+to four times as much, and they won, of course,
+more games, but not that much more.
+So rich teams, as I mentioned, have
+three to four times the payroll of poor teams.
+Yet the A's made the playoffs every year.
+How do they do this?
+And what we will see in this lecture is
+that by taking a quantitative approach,
+an analytics approach, they were able to find undervalued
+players and form teams that were very efficient.
+So the A's started using a different method
+to select players.
+The traditional way of selecting players was through scouting.
+Scouts would watch high school and college players,
+and they would report back about their skills,
+especially discussing their speed and their athletic build.
+The A's, however, selected players
+based on their statistics, not on their looks.
+
+The following are quotes from the book Moneyball.
+"The statistics enable you to find your way
+past all sorts of sight-based scouting prejudices."
+And a direct quote from Billy Beane,
+the manager of the Oakland A's and the architect
+of this approach: "We are not selling jeans here."
+Let us contrast how the A's selected
+players versus the Yankees.
+On the left, you see a catcher, Scott Hatteberg,
+that the A's selected, who would not throw particularly well
+but got on base a lot.
+On the right, you see Derek Jeter,
+one of the top players in baseball,
+a consistent shortstop and the leader
+in hits and stolen bases.
+
+Let us look into pitchers.
+On the left, you see Chad Bradford,
+a pitcher for the A's, a submariner
+who used an unconventional delivery and slow speed.
+On the right, you see Roger Clemens,
+one of the best pitchers in the game that
+used conventional delivery and fast speed.
+Billy Beane was the manager of the Oakland A's since 1997.
+He played Major League Baseball, but he was not a great player.
+In fact, he sees himself as a typical scouting error.
+In the 1980s and 1990s, analysts were hired by baseball teams,
+but none of them had enough power
+to affect anything important.
+As I mentioned, Billy Beane became
+the general manager of the Oakland A's in 1997,
+and he was given a rather small budget.
+He understood the importance of analytics.
+But during this period, most general managers
+knew little about statistics and based decisions primarily
+on feelings.
+In contrast, Billy Beane hired Paul DePodesta, a Harvard
+graduate, as his assistant.
+Furthermore, he was not afraid to alienate scouts, managers,
+and players if the quantitative approach suggested decisions
+that were different than the scouts or the managers
+or the players suggested.
+
+An important player in this story
+is Paul DePodesta, a Harvard graduate.
+Paul spent a lot of time looking at the data.
+The analysis suggested that some skills were undervalued
+and some skills were overvalued.
+The key premise of the Oakland A's is
+that if they could detect the undervalued skills,
+they could find players at a bargain.

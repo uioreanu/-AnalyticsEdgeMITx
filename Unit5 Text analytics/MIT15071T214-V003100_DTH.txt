@@ -1,0 +1,195 @@
+
+The graph shows on the horizontal axis the percentage
+of questions answered, and on the vertical axis,
+the percentage of answers that were correct.
+When Watson started, the graph that shows its performance
+is shown here.
+In 2007, we observed that the performance of Watson improved,
+and it is shown there.
+And then successively from 2008 May to 2010,
+we see the successive improvement of Watson
+in this graph that shows a trade-off between questions
+answered and precision.
+This is the area of the best human players.
+Observe that they answer a high number of questions
+and they answer a very high number of questions correctly.
+So it was at that time-- 2010-- that the people that
+controlled the decision decided that Watson
+is ready to enter the competition.
+
+So the games were scheduled for February 2011.
+Two games were played, and the winner
+would be the contestant with the highest winnings over the two
+games.
+
+Once we got into the game, it was nerve-wracking, frankly.
+Brad, if you're ready, make your first choice.
+Let's take "Alternate Meanings" for $200, Alex.
+"4-letter word for a vantage point or a belief."
+Brad.
+What is a view?
+Yes.
+After the first clue of the game, which Brad won,
+I had just this horrible feeling at that moment
+that he was as good as everyone said he was,
+and he was just going to run the whole board on us.
+"Alternate Meanings," $400.
+"4-letter word for the iron fitting on the hoof of a horse
+or a card-dealing box in a casino."
+Watson.
+What is shoe?
+You are right.
+We actually took the lead.
+We were ahead of them.
+But then we started getting some questions wrong.
+Watson.
+What is leg?
+No, I'm sorry, I can't accept that.
+What is 1920s?
+No.
+What is chic?
+No, sorry.
+Brad?
+What is class?
+Class, you got it.
+Watson.
+What is Sauron?
+Sauron is right, and that puts you
+into a tie for the lead with Brad.
+A lot of people were feeling good
+because Watson held his own and was doing pretty well.
+But I wanted to be winning.
+Too close for comfort.
+Ken, you're in third place.
+That means you go first in "Double Jeopardy."
+The "Double Jeopardy" round of the first game I thought
+was phenomenal.
+Watson went on a terror.
+Watson.
+Who is Franz Liszt?
+You are right.
+What is violin?
+Good.
+Who is The Church Lady?
+Yes.
+Watson.
+What is narcolepsy?
+You are right.
+And with that, you move to $36,681.
+After the first game, we have a pretty good commanding lead,
+but we've seen enough Jeopardy to know
+that this is not a lockout.
+
+Welcome to the deciding game in the IBM Challenge here
+on Jeopardy!.
+The second game was a whole other story.
+We struggled some at the beginning.
+"Actors Who Direct" for $1,000.
+"A Bronx Tale."
+Brad.
+Who is Robert De Niro?
+Correct.
+That was an awful category because Watson
+got every single one right, but was just a little too slow.
+Ken.
+Who is Denzel Washington?
+You got him.
+Ken and Brad were getting the answer in a second.
+"Rocky II", "III", & "IV."
+Brad.
+Who is Sylvester Stallone?
+Correct.
+Even with 2,800 cores, it took us 2 1/2 seconds or 3 seconds,
+and that just gives you a sense of how incredible the human
+brain is-- how quickly it could understand the category,
+what's being asked.
+Boom!
+And get the answer.
+Who is Sean Penn?
+Right.
+Ken was doing very well.
+And the risk was if Ken gets a "Daily Double," that's big.
+Gets it right, he's going to be well ahead.
+And then with that kind of lead going into "Final Jeaoprady"--
+if he bets enough, he could end up winning the match.
+"A camel is a horse designed by this."
+Ken.
+What's a committee?
+Good.
+"Familiar Sayings" for $2,000.
+We've gotta find that last "Daily Double."
+We've gotta find that last "Daily Double."
+It was nail-biting.
+I mean, it was just intense.
+Because these guys were good.
+Ken.
+Who is the brain?
+Brain, yes.
+There was a crucial moment in the game.
+There was still a "Daily Double" on the board
+and it was starting to become pretty clear that it
+was in the "Legal E's" category.
+Let's go to "Legal E's" for $1,200.
+"This person is appointed by a testator
+to carry out the directions and requests in his will."
+Watson.
+What is executor?
+Right.
+Same category, $1,600.
+Answer-- "Daily Double."
+That was the moment when I knew it's over.
+Let us look at the results of the game.
+Looking at these numbers, it is fair to say
+that Watson's victory over the two best human players
+has been a decisive one.
+In the first day, Watson's winnings
+were more than double the sum of the winnings of both players.
+And in the second day, it was more than their sum.
+Overall, the winnings for Watson were almost double
+the sum of the winnings of both players--
+a rather decisive victory.
+
+So what's next for Watson?
+So Watson is ideally suited to answer questions which
+cover a wide range of material and often
+have to deal with inconsistent or incomplete information.
+This makes it particularly appropriate for applications
+like medicine.
+Note that the amount of medical information available
+is doubling every five years, and a lot of the data
+is unstructured.
+As a result, Watson has been utilized for cancer diagnosis
+and selecting the best course of treatment.
+And Watson has been in discussions
+with MD Anderson and Memorial Sloan-Kettering Cancer Centers
+to apply the Watson technology for cancer diagnosis
+and selecting the best course of treatment.
+
+So what is the analytics edge of Watson?
+First, we have observed that the major technology of Watson
+is to combine many algorithms that
+increase the accuracy and the confidence
+of the overall outcome.
+Any one of these algorithms would not have worked,
+but their combination gives Watson a considerable edge.
+The second important observation that gives Watson an edge
+is that it approaches the problem in a very different way
+than how a human approaches a problem.
+A key aspect of the technology is hypothesis generation,
+and then using different and distinct algorithms
+to explore this hypothesis and combining them,
+it leads to answers that provide an edge.
+Finally, and quite importantly, Watson
+has a considerable ability to deal
+with massive amounts of data, often in unstructured form.
+And the vast majority of the data-- 90% of it-- is, in fact,
+unstructured.
+So the combination of these ideas
+give Watson a significant edge.
+It is no accident that IBM has invested so far more than $24
+billion to invest in Watson technologies,
+and it has created a company within IBM
+called Watson Solutions, whose key objective is
+to apply the Watson technology and the edge
+that it creates to a variety of verticals, one of which
+is medicine.

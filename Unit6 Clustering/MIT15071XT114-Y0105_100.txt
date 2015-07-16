@@ -1,0 +1,23 @@
+
+What is the impact of clustering?
+Clustering members within each cost bucket
+yielded better predictions for heart attacks within clusters.
+Grouping patients in clusters exhibits
+temporal diagnostic patterns within nine months
+of a heart attack.
+These patterns can be incorporated
+in the diagnostic rules for heart attacks.
+The approach shows that using analytics for early heart
+failure detection through pattern recognition
+can lead to interesting new insights.
+
+The findings here are reinforced by results from our research.
+IBM, Sutter Health, and Geisinger Health Systems
+partnered in 2009 to research analytics tools
+in view of early detection.
+Steve Steinhubl, a cardiologist from Geisinger,
+wrote, "our early research showed
+the signs and symptoms of heart failure in patients
+are often documented years before diagnosis.
+The pattern of documentation can offer clinically useful signals
+for early detection of this deadly disease."

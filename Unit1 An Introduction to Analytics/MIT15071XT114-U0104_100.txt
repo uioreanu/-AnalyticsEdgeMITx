@@ -1,0 +1,43 @@
+
+Our third example is about the Framingham Heart Study.
+This study represents one of the most important studies
+of modern medicine.
+It is an ongoing study of the residents
+in Framingham, Massachusetts.
+It started in 1948, and is now on the third generation.
+Much of the now-common knowledge regarding heart disease
+came from this study.
+For example, the fact that high blood pressure
+should be treated.
+Clogged arteries are not normal.
+Cigarette smoking can lead to heart disease.
+Let us give some statistics about heart disease.
+Heart disease has been the leading cause of death
+worldwide since the 1920s.
+7.3 million people died from coronary heart disease in 2008.
+Since 1950, age-adjusted death rates have declined 60%.
+In part, due to the results of the Framingham Heart Study.
+What is the data in this study?
+There were 5,209 patients enrolled in 1948.
+The patients were given a questionnaire and exams
+every two years, measuring their physical characteristics,
+their behavioral characteristics,
+and medical test results.
+The patient population, the exams, and the questions
+expanded over time.
+The approach the Framingham Heart Study utilized
+was a regression to predict whether or not
+a patient would develop heart disease in the next 10 years.
+The model tested and adjusted for different populations.
+The results of the study are available online
+so users can calculate their risk of heart disease
+based on total cholesterol, HDL, and systolic blood pressure.
+
+So what is the edge?
+It provided necessary evidence for the development of drugs
+to lower blood pressure.
+The study further paved the way for other cliniical prediction
+rules that predict clinical outcomes using patient's data.
+Finally, the study demonstrated how
+a model allows a medical professional
+to make predictions for patients worldwide.

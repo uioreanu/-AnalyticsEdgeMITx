@@ -1,0 +1,33 @@
+
+In this lecture, we have seen a particular application
+of sentiment analysis on Twitter.
+However, the area of sentiment analysis is much broader.
+Over 7,000 research articles have been written on the topic.
+Hundreds of start-ups are developing sentiment analysis
+solutions.
+Many websites perform real-time analysis of tweets.
+For example, "tweetfeel" shows trends
+given any term, and "The Stock Sonar"
+shows sentiment and stock prices.
+Let's talk about text analytics a bit more generally.
+Sentiment analysis is a particular application
+of text analytics.
+In general, the critical aspect of text analytics
+is to select the specific features that
+are relevant in a particular application.
+In addition, it's important to apply specific knowledge that
+often leads to better results.
+For example, using the meaning of the symbols or include
+features like the number of words.
+
+Let's finally discuss the analytics edge
+that we have seen in this lecture.
+Analytical sentiment analysis we have seen
+can replace more labor-intensive methods like polling.
+Text analytics can also deal with the massive amounts
+of unstructured data being generated on the internet.
+Computers are becoming more and more
+capable of interacting with humans
+and performing human tasks.
+In the next lecture, we'll discuss IBM Watson,
+an impressive feat in the area of text analytics.

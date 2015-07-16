@@ -1,0 +1,36 @@
+
+So we just made this plot in ggplot2.
+When we compare it back to the pie graph,
+the first thing I notice is that now all the data is visible.
+We haven't lost the small regions
+and we can read out the exact share that
+comes from Africa, Oceania, and the unknown or stateless
+column.
+I believe it is also easier to compare the relative sizes
+of each region because they're all
+put side by side on a similar scale.
+There's no tricks, or three dimensions,
+or colors to create a perception issue.
+But, I will say that something to consider
+is, for some people and some applications,
+being not as visually exciting is a negative.
+This plot, while very readable and correct,
+is certainly a little bit dull.
+In some applications, this is an important consideration.
+
+Now, wouldn't it be interesting if we
+could plot this data on a world map?
+It would be possible, but a bit tedious
+to create because we need to determine
+which country lies in which region.
+Shading all countries in a region of the same color
+might be misleading though.
+For example, countries in Latin America
+will send students at different rates, naturally.
+But, if we color them all the same color,
+it kind of gives a false impression.
+As it turns out, we actually have access
+to per country data.
+So we will plot that on a world map
+instead and see if it is an effective way of communicating
+where students come from to MIT.

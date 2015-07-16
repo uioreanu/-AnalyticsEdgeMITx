@@ -1,0 +1,59 @@
+
+Let us next examine the impact that the Framingham Heart
+Study had through the years.
+
+So the graph on the right shows the number
+of papers written every year using data
+from the Framingham Study as a function of time,
+and we observe the very significant increase
+in the number of such publications.
+Altogether, there has been 2,400 studies
+written using the Framingham data.
+During the years, many other risk factors were evaluated.
+Obesity, exercise, psychological,
+and social issues.
+In fact, the Texas Heart Institute Journal
+named the Framingham Heart Study as the top 10 cardiology
+advance of the 20th century.
+
+In addition to the study, there has
+been an online tool that assesses
+the risk for your 10-year risk of having a heart attack.
+So you input in this online tool your age, your gender,
+the total cholesterol, the HDL cholesterol,
+whether or not you are a smoker, the systolic blood pressure,
+and then it calculates your 10-year risk.
+So how about new research directions and challenges
+that the study is facing?
+
+So currently, we are in the third generation that
+started in 2002, but there was also a second generation
+study of people enrolled in 1971,
+and the third started in 2002.
+As a result, this enables the study
+to examine family history as a risk factor.
+More diverse cohorts started in 1994 and 2003.
+In addition to the classical measures we have used so far,
+social network analysis of the participants
+has also been utilized.
+And additionally and quite importantly,
+genome -wide association study is underway linking genetics
+to heart conditions as a risk factor.
+Of course, many challenges are related to funding.
+Funding cuts in 1969 nearly closed the study,
+and the 2013 sequester is threatening
+to close the study as well.
+
+A very important impact of the Framingham Heart Study
+is the development of clinical decision rules.
+The early work on the study paved the way
+for clinical decision rules as it is done today.
+And the graph shows the clinical prediction rules
+published as a function of the year from 1960s to today.
+And you observe that more than 70,000 published rules,
+clinical decision rules, have been published across medicine,
+and you observe that the rate of publication is increasing.
+So these clinical decision rules are
+developed using patient and disease characteristics,
+and then observed test results from patients
+that can assess the effectiveness of such rules.
